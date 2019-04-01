@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Caps</string>
+    <string name="s0">SCORE = 0</string>
+    <string name="s1">Q#1</string>
+    <string name="s2">question</string>
+    <string name="s3">Your Answer</string>
+    <string name="s4">DONE</string>
+    <string name="s5">Your Answer</string>
+</resources>
